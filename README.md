@@ -49,7 +49,8 @@ The dashboard allows users to explore:
 - Key business metrics through interactive visuals.
 
 ## 📷 Dashboard Preview
-_Add screenshots of your dashboard here._
+<img width="1217" height="722" alt="image" src="https://github.com/user-attachments/assets/cee84ccc-8fc8-4f60-a3d9-45398e784369" />
+
 
 ## 📂 Project File
 The Power BI dashboard file (`.pbix`) is available in this repository.
